@@ -96,4 +96,4 @@ Create a pull request.
 
 Contact
 
-For questions or feedback, please contact yourname.
+For questions or feedback, please contact me at my LinkedIn.
